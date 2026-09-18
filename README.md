@@ -65,6 +65,7 @@ customer-acquisition-sql-analysis/
     ├── create_database.sql
     └── query_result.sql
 
+
 ---
 
 ## 🔍 Analysis Steps
