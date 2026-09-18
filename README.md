@@ -50,7 +50,7 @@ The SQLite database contains two main tables:
 
 ## 📂 Repository Structure
 
----
+```
 customer-acquisition-sql-analysis/
 │
 ├── README.md
@@ -65,7 +65,8 @@ customer-acquisition-sql-analysis/
 └── sql/
     ├── create_database.sql
     └── query_result.sql
----
+```
+
 
 ## 🔍 Analysis Steps
 
