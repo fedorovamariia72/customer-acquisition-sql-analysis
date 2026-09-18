@@ -62,9 +62,8 @@ customer-acquisition-sql-analysis/
 │   └── store_database.sqlite
 │
 └── sql/
-├── create_database.sql
-└── query_result.sql
-
+    ├── create_database.sql
+    └── query_result.sql
 
 ---
 
